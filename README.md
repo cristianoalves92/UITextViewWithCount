@@ -20,9 +20,9 @@ self.textView.maxLength = 200
 
 Or with interface builder
 
-<img src="https://raw.githubusercontent.com/crixalves/UICustomizeDatePicker/master/interfaceBuilder.png"/>
+<img src="https://raw.githubusercontent.com/crixalves/UITextViewWithCount/master/interfaceBuilder.png"/>
 
 And, the result:
 
 
-<img src="https://raw.githubusercontent.com/crixalves/UICustomizeDatePicker/master/result.png"/>
+<img src="https://raw.githubusercontent.com/crixalves/UITextViewWithCount/master/result.png"/>
